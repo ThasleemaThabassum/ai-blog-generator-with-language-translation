@@ -16,8 +16,7 @@ topic, audience, and tone — with optional instant translation into 9 languages
 - Gradio
 
 ## 🚀 Live Demo
-[Try it here]( [https://huggingface.co/spaces/thabassum9/ai-blog-generator]
-)
+[Try it here](https://huggingface.co/spaces/thabassum9/ai-blog-generator)
 
 ## ⚙️ How to Run Locally
 1. Clone this repo
