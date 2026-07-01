@@ -16,7 +16,7 @@ topic, audience, and tone — with optional instant translation into 9 languages
 - Gradio
 
 ## 🚀 Live Demo
-[Try it here]( https://2ca1daa8179a2e0e6d.gradio.live
+[Try it here]( (https://huggingface.co/spaces/thabassum9/ai-blog-generator)
 )
 
 ## ⚙️ How to Run Locally
